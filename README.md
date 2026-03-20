@@ -1,2 +1,3 @@
-# prime-fintech-app-mrou
-Automated issue comment bot repository
+# Prime Fintech App Mrou
+
+Automated issue comment bot repository.
